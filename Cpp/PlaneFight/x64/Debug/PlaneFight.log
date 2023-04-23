@@ -1,0 +1,53 @@
+﻿婧?cpp(27,16): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(27,16): message : insert an explicit cast to silence this issue
+婧?cpp(27,19): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(27,19): message : insert an explicit cast to silence this issue
+婧?cpp(53,25): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(78,25): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(94,14): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(94,14): message : insert an explicit cast to silence this issue
+婧?cpp(94,18): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(94,18): message : insert an explicit cast to silence this issue
+婧?cpp(95,14): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(95,14): message : insert an explicit cast to silence this issue
+婧?cpp(95,18): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(95,18): message : insert an explicit cast to silence this issue
+婧?cpp(114,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(116,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(118,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(120,21): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(122,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(124,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(139,14): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(139,14): message : insert an explicit cast to silence this issue
+婧?cpp(139,17): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(139,17): message : insert an explicit cast to silence this issue
+婧?cpp(172,13): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(174,14): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(176,14): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(180,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(182,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(184,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(203,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(208,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(210,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(212,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(221,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(226,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(228,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(230,15): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(377,31): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(377,31): message : insert an explicit cast to silence this issue
+婧?cpp(414,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(454,32): error : non-constant-expression cannot be narrowed from type 'int' to 'SHORT' (aka 'short') in initializer list [-Wc++11-narrowing]
+婧?cpp(454,32): message : insert an explicit cast to silence this issue
+婧?cpp(488,16): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(562,13): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(564,13): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(566,13): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(568,13): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(656,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(656,41): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(658,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(660,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]
+婧?cpp(663,11): warning : illegal character encoding in string literal [-Winvalid-source-encoding]

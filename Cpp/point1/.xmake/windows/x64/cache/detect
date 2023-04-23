@@ -1,0 +1,10 @@
+{
+    find_program = {
+        dmd = false,
+        zig = false,
+        ["msbuild.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\msbuild.exe]],
+        ldc2 = false,
+        ["cl.exe"] = [[C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\cl.exe]],
+        gdc = false
+    }
+}
