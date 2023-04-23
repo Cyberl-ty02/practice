@@ -1,0 +1,6 @@
+[
+{
+  "directory": "C:\\Users\\15931\\source\\repos\\fltadd",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Fobuild\\.objs\\源\\windows\\x64\\release\\源.cpp.obj", "源.cpp"],
+  "file": "源.cpp"
+}]

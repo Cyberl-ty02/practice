@@ -1,0 +1,12 @@
+{
+  "ActiveTargetSystem": "WSL: Gentoo",
+  "MRUPresetsPerTargetSystem": {
+    "本地计算机": {
+      "configure": "x64-debug"
+    }
+  },
+  "ExpandedNodes": [
+    ""
+  ],
+  "PreviewInSolutionExplorer": false
+}
