@@ -11,11 +11,22 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "10.0.22000.0",
-            "compilerPath": "cl.exe",
+            "compilerPath": "/usr/lib/llvm/15/bin/clang",
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "windows-msvc-x64",
             "compileCommands": "${workspaceFolder}/Cpp/fltadd/compile_commands.json"
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/lib/llvm/15/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
         }
     ],
     "version": 4
