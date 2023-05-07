@@ -1,0 +1,6 @@
+[
+{
+  "directory": "c:\\Users\\15931\\source\\gitup\\practice\\Cpp\\pract1",
+  "arguments": ["clang.exe", "-c", "-Qunused-arguments", "-m64", "-fexceptions", "-fcxx-exceptions", "-o", "build\\.objs\\pract1\\windows\\x64\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
